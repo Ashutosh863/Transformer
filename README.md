@@ -17,7 +17,7 @@ Visualization of the architecture
 Installation
 Install Transformer
 
-git clone - 
+git clone - https://github.com/Ashutosh863/Transformer.git
   
 cd Transformer
 pip install -r requirements.txt
